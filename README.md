@@ -37,7 +37,7 @@ You can call me **70Ca**, which stands for "**70CA Creates Apple-chan**".
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=70CentsApple&show_icons=true&theme=rose_pine" alt="Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=70CentsApple&layout=compact&theme=rose_pine" alt="Langs"></td>
+    <td><img src="https://github-readme-stats-indol-tau-70.vercel.app/api?username=70CentsApple&show_icons=true&theme=rose_pine" alt="Stats"></td>
+    <td><img src="https://github-readme-stats-indol-tau-70.vercel.app/api/top-langs/?username=70CentsApple&layout=compact&theme=rose_pine" alt="Langs"></td>
   </tr>
 </table>
